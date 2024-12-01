@@ -1,0 +1,632 @@
+[
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DBitonicSortGlobalDisperseCS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortGlobalDisperseCS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortGlobalDisperseCS.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DBitonicSortGlobalDisperseCS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DBitonicSortGlobalFlipCS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortGlobalFlipCS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortGlobalFlipCS.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DBitonicSortGlobalFlipCS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DBitonicSortLocalDisperseCS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortLocalDisperseCS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortLocalDisperseCS.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DBitonicSortLocalDisperseCS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DBitonicSortLocalSortCS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortLocalSortCS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortLocalSortCS.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DBitonicSortLocalSortCS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DBitonicSortFunctions.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortFunctions.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module/vtkF3DBitonicSortFunctions.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DBitonicSortFunctions.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DFaceVaryingPointDispatcher.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/public/module/vtkF3DFaceVaryingPointDispatcher.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module/vtkF3DFaceVaryingPointDispatcher.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DFaceVaryingPointDispatcher.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_5e984c86b020da752eb6357425f4f168.h\\\" -Dvtkext_EXPORTS -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkext.dir/vtkF3DImporter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/public/module/vtkF3DImporter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module/vtkF3DImporter.cxx",
+  "output": "vtkext/public/module/CMakeFiles/vtkext.dir/vtkF3DImporter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/F3DDefaultHDRI.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/F3DDefaultHDRI.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/F3DDefaultHDRI.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/F3DDefaultHDRI.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/F3DFontBuffer.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/F3DFontBuffer.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/F3DFontBuffer.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/F3DFontBuffer.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DComputeDepthCS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DComputeDepthCS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DComputeDepthCS.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DComputeDepthCS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DImguiFS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DImguiFS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DImguiFS.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DImguiFS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DImguiVS.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DImguiVS.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/vtkF3DImguiVS.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DImguiVS.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/F3DLog.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/F3DLog.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/F3DLog.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/F3DLog.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/F3DColoringInfoHandler.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/F3DColoringInfoHandler.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/F3DColoringInfoHandler.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/F3DColoringInfoHandler.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DCachedLUTTexture.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DCachedLUTTexture.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DCachedLUTTexture.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DCachedLUTTexture.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DCachedSpecularTexture.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DCachedSpecularTexture.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DCachedSpecularTexture.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DCachedSpecularTexture.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DConsoleOutputWindow.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DConsoleOutputWindow.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DConsoleOutputWindow.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DConsoleOutputWindow.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DDropZoneActor.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DDropZoneActor.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DDropZoneActor.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DDropZoneActor.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DExternalRenderWindow.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DExternalRenderWindow.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DExternalRenderWindow.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DExternalRenderWindow.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DGenericImporter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DGenericImporter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DGenericImporter.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DGenericImporter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DHexagonalBokehBlurPass.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DHexagonalBokehBlurPass.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DHexagonalBokehBlurPass.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DHexagonalBokehBlurPass.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DInteractorEventRecorder.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DInteractorEventRecorder.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DInteractorEventRecorder.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DInteractorEventRecorder.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DInteractorStyle.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DInteractorStyle.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DInteractorStyle.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DInteractorStyle.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DMemoryMesh.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DMemoryMesh.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DMemoryMesh.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DMemoryMesh.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DMetaImporter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DMetaImporter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DMetaImporter.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DMetaImporter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DNoRenderWindow.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DNoRenderWindow.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DNoRenderWindow.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DNoRenderWindow.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DObjectFactory.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DObjectFactory.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DObjectFactory.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DObjectFactory.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DOpenGLGridMapper.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DOpenGLGridMapper.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DOpenGLGridMapper.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DOpenGLGridMapper.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DPolyDataMapper.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DPolyDataMapper.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DPolyDataMapper.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DPolyDataMapper.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DPostProcessFilter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DPostProcessFilter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DPostProcessFilter.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DPostProcessFilter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DRenderPass.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DRenderPass.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DRenderPass.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DRenderPass.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DRenderer.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DRenderer.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DRenderer.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DRenderer.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DUIObserver.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUIObserver.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUIObserver.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DUIObserver.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DUIActor.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUIActor.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUIActor.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DUIActor.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DUserRenderPass.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUserRenderPass.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DUserRenderPass.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DUserRenderPass.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DImguiObserver.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DImguiObserver.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DImguiObserver.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DImguiObserver.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DImguiActor.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DImguiActor.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DImguiActor.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DImguiActor.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module",
+  "command": "/usr/bin/c++ -DVTK_MODULE_ENABLE_VTK_RenderingRayTracing=1 -DVTK_MODULE_ENABLE_VTK_opengl=1 -Dkiss_fft_scalar=double -DvtkRenderingCore_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -DvtkRenderingVolume_AUTOINIT_INCLUDE=\\\"/home/ehantman/Desktop/repos/f3d/build/CMakeFiles/vtkModuleAutoInit_ec47e130ffdb4ae73e1b1973a6727492.h\\\" -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fopenmp -o CMakeFiles/vtkextPrivate.dir/vtkF3DGLXRenderWindow.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DGLXRenderWindow.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/vtkF3DGLXRenderWindow.cxx",
+  "output": "vtkext/private/module/CMakeFiles/vtkextPrivate.dir/vtkF3DGLXRenderWindow.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/vtkextPrivateTests.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing/vtkextPrivateTests.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing/vtkextPrivateTests.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/vtkextPrivateTests.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DCachedTexturesPrint.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DCachedTexturesPrint.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DCachedTexturesPrint.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DCachedTexturesPrint.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DGenericImporter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DGenericImporter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DGenericImporter.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DGenericImporter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DInteractorEventRecorder.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DInteractorEventRecorder.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DInteractorEventRecorder.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DInteractorEventRecorder.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DLog.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DLog.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DLog.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DLog.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DMetaImporterMultiColoring.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DMetaImporterMultiColoring.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DMetaImporterMultiColoring.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DMetaImporterMultiColoring.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DObjectFactory.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DObjectFactory.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DObjectFactory.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DObjectFactory.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DOpenGLGridMapper.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DOpenGLGridMapper.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DOpenGLGridMapper.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DOpenGLGridMapper.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DRenderPass.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DRenderPass.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DRenderPass.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DRenderPass.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module/Testing",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fopenmp -o CMakeFiles/vtkextPrivateTests.dir/TestF3DRendererWithColoring.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DRendererWithColoring.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module/Testing/TestF3DRendererWithColoring.cxx",
+  "output": "vtkext/private/module/Testing/CMakeFiles/vtkextPrivateTests.dir/TestF3DRendererWithColoring.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/plugins/native",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/plugins/native -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/plugins/native/module -I/home/ehantman/Desktop/repos/f3d/src/plugins/native/module -isystem /usr/include/vtk -O3 -DNDEBUG -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/f3d-plugin-native.dir/plugin.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/plugins/native/plugin.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/plugins/native/plugin.cxx",
+  "output": "plugins/native/CMakeFiles/f3d-plugin-native.dir/plugin.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/plugins/native/module",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/build/plugins/native/module -I/home/ehantman/Desktop/repos/f3d/src/plugins/native/module -isystem /usr/include/vtk -O3 -DNDEBUG -fPIC -fopenmp -o CMakeFiles/vtkextNative.dir/vtkF3DSplatReader.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/plugins/native/module/vtkF3DSplatReader.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/plugins/native/module/vtkF3DSplatReader.cxx",
+  "output": "plugins/native/module/CMakeFiles/vtkextNative.dir/vtkF3DSplatReader.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/plugins/exodus",
+  "command": "/usr/bin/c++ -DH5_BUILT_AS_DYNAMIC_LIB -Dkiss_fft_scalar=double -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/plugins/exodus -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -isystem /usr/include/vtk -O3 -DNDEBUG -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/f3d-plugin-exodus.dir/plugin.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/plugins/exodus/plugin.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/plugins/exodus/plugin.cxx",
+  "output": "plugins/exodus/CMakeFiles/f3d-plugin-exodus.dir/plugin.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/animationManager.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/animationManager.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/animationManager.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/animationManager.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/camera_impl.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/camera_impl.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/camera_impl.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/camera_impl.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/config.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/library/src/config.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/library/src/config.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/config.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/context.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/context.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/context.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/context.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/engine.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/engine.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/engine.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/engine.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/factory.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/library/src/factory.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/library/src/factory.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/factory.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/image.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/image.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/image.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/image.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/init.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/init.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/init.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/init.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/interactor.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/interactor.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/interactor.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/interactor.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/interactor_impl.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/interactor_impl.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/interactor_impl.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/interactor_impl.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/levenshtein.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/levenshtein.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/levenshtein.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/levenshtein.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/log.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/log.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/log.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/log.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/options.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/options.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/options.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/options.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/scene_impl.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/scene_impl.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/scene_impl.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/scene_impl.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/types.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/types.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/types.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/types.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/utils.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/utils.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/utils.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/utils.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library",
+  "command": "/usr/bin/c++ -Dkiss_fft_scalar=double -Dlibf3d_EXPORTS -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -I/home/ehantman/Desktop/repos/f3d/src/library/private -I/home/ehantman/Desktop/repos/f3d/build/library/private -I/home/ehantman/Desktop/repos/f3d/src/library/plugin -I/home/ehantman/Desktop/repos/f3d/build/library/plugin -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/build/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/public/module -I/home/ehantman/Desktop/repos/f3d/build/vtkext/private/module -I/home/ehantman/Desktop/repos/f3d/src/vtkext/private/module -isystem /usr/include/vtk -O3 -DNDEBUG -std=gnu++17 -fPIC -fvisibility=hidden -fopenmp -o CMakeFiles/libf3d.dir/src/window_impl.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/src/window_impl.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/src/window_impl.cxx",
+  "output": "library/CMakeFiles/libf3d.dir/src/window_impl.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/libf3dSDKTests.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/library/testing/libf3dSDKTests.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/library/testing/libf3dSDKTests.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/libf3dSDKTests.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKAnimation.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKAnimation.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKAnimation.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKAnimation.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKCamera.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKCamera.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKCamera.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKCamera.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKCompareWithFile.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKCompareWithFile.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKCompareWithFile.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKCompareWithFile.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDropZone.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDropZone.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDropZone.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDropZone.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicLightIntensity.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicLightIntensity.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicLightIntensity.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicLightIntensity.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKEngine.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKEngine.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKEngine.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKEngine.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKEngineExceptions.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKEngineExceptions.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKEngineExceptions.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKEngineExceptions.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKImage.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKImage.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKImage.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKImage.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorDropFullScene.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorDropFullScene.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorDropFullScene.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorDropFullScene.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorCommand.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorCommand.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorCommand.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorCommand.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKSceneFromMemory.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKSceneFromMemory.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKSceneFromMemory.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKSceneFromMemory.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKScene.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKScene.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKScene.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKScene.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKLog.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKLog.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKLog.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKLog.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKMultiColoring.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKMultiColoring.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKMultiColoring.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKMultiColoring.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKMultiOptions.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKMultiOptions.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKMultiOptions.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKMultiOptions.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKOptions.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKOptions.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKOptions.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKOptions.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKOptionsIO.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKOptionsIO.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKOptionsIO.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKOptionsIO.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKRenderAndInteract.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKRenderAndInteract.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKRenderAndInteract.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKRenderAndInteract.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKRenderFinalShader.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKRenderFinalShader.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKRenderFinalShader.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKRenderFinalShader.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKUtils.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKUtils.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKUtils.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKUtils.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKWindowAuto.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKWindowAuto.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKWindowAuto.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKWindowAuto.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestPseudoUnitTest.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestPseudoUnitTest.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestPseudoUnitTest.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestPseudoUnitTest.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicBackgroundColor.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicBackgroundColor.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicBackgroundColor.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicBackgroundColor.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicFontFile.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicFontFile.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicFontFile.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicFontFile.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicProperties.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicProperties.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicProperties.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicProperties.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorCallBack.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorCallBack.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorCallBack.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorCallBack.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorDocumentation.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorDocumentation.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKInteractorDocumentation.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKInteractorDocumentation.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/library/testing",
+  "command": "/usr/bin/c++ -DF3D_MODULE_EXR=0 -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicHDRI.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicHDRI.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/library/testing/TestSDKDynamicHDRI.cxx",
+  "output": "library/testing/CMakeFiles/libf3dSDKTests.dir/TestSDKDynamicHDRI.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DIcon.cxx.o -c /home/ehantman/Desktop/repos/f3d/build/application/F3DIcon.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/build/application/F3DIcon.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DIcon.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DColorMapTools.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DColorMapTools.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DColorMapTools.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DColorMapTools.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DConfigFileTools.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DConfigFileTools.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DConfigFileTools.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DConfigFileTools.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DOptionsTools.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DOptionsTools.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DOptionsTools.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DOptionsTools.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DPluginsTools.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DPluginsTools.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DPluginsTools.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DPluginsTools.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DStarter.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DStarter.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DStarter.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DStarter.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/F3DSystemTools.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/F3DSystemTools.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/F3DSystemTools.cxx",
+  "output": "application/CMakeFiles/f3d.dir/F3DSystemTools.cxx.o"
+},
+{
+  "directory": "/home/ehantman/Desktop/repos/f3d/build/application",
+  "command": "/usr/bin/c++ -DCXXOPTS_VECTOR_DELIMITER=\"'\\\\0'\" -DF3D_MODULE_UI -I/home/ehantman/Desktop/repos/f3d/build/application -I/home/ehantman/Desktop/repos/f3d/src/external/cxxopts -I/home/ehantman/Desktop/repos/f3d/src/external/nlohmann_json -I/home/ehantman/Desktop/repos/f3d/src/external/dmon -I/home/ehantman/Desktop/repos/f3d/src/library/public -I/home/ehantman/Desktop/repos/f3d/build/library/public -O3 -DNDEBUG -std=gnu++17 -fvisibility=hidden -o CMakeFiles/f3d.dir/main.cxx.o -c /home/ehantman/Desktop/repos/f3d/src/application/main.cxx",
+  "file": "/home/ehantman/Desktop/repos/f3d/src/application/main.cxx",
+  "output": "application/CMakeFiles/f3d.dir/main.cxx.o"
+}
+]
