@@ -716,9 +716,9 @@ int F3DStarter::Start(int argc, char** argv)
   // but this duplicate the initialization value as it is present in
   // F3DOptionTools::DefaultAppOptions too
   bool dryRun = false;
-  if (cliOptionsDict.find("no-render") != cliOptionsDict.end())
+  if (cliOptionsDict.find("dry-run") != cliOptionsDict.end())
   {
-    dryRun = f3d::options::parse<bool>(cliOptionsDict["no-render"]);
+    dryRun = f3d::options::parse<bool>(cliOptionsDict["dry-run"]);
   }
   std::string config;
   if (cliOptionsDict.find("config") != cliOptionsDict.end())

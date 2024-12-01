@@ -12,6 +12,7 @@
 #include "vtkF3DRenderer.h"
 #include "vtkF3DUIObserver.h"
 
+#include <iostream>
 #include <vtkCallbackCommand.h>
 #include <vtkCellPicker.h>
 #include <vtkGenericRenderWindowInteractor.h>
@@ -642,6 +643,14 @@ interactor& interactor_impl::initCommands()
       this->Internals->AnimationManager->StopAnimation();
       this->Internals->Scene.add(files);
     });
+  this->addCommand("open_file", 
+          [&](const std::vector<std::string>& args) {
+            this->Internals->Scene.clear();
+            std::string file;
+            std::cin >> file;
+            this->Internals->Scene.add(file);
+            this->Internals->Options.ui.dropzone = false;
+          });
   return *this;
 }
 
@@ -847,6 +856,7 @@ interactor& interactor_impl::initBindings()
   this->addBinding({mod_t::NONE, "Return"}, "reset_camera", "Others", std::bind(docStr, "Reset camera to initial parameters"));
   this->addBinding({mod_t::NONE, "Space"}, "toggle_animation", "Others", std::bind(docStr, "Play/Pause animation if any"));
   this->addBinding({mod_t::NONE, "Drop"}, "add_files", "Others", std::bind(docStr, "Add files to the scene"));
+  this->addBinding({mod_t::CTRL, "O"}, "open_file", "Others", std::bind(docStr, "Open File"));
   // clang-format on
 
   return *this;
