@@ -14,7 +14,6 @@
 #include "vtkF3DMetaImporter.h"
 #include "vtkF3DUIActor.h"
 
-#include <vtkDiscretizableColorTransferFunction.h>
 #include <vtkLight.h>
 #include <vtkOpenGLRenderer.h>
 
@@ -25,6 +24,7 @@
 namespace fs = std::filesystem;
 
 class vtkDiscretizableColorTransferFunction;
+class vtkColorTransferFunction;
 class vtkCornerAnnotation;
 class vtkImageReader2;
 class vtkOrientationMarkerWidget;
@@ -312,7 +312,7 @@ public:
 
   /**
    * Set Colormap Discretization
-   * Defaults to 0 which is no discretization.
+   * Defaults to std::nullopt which is no discretization.
    */
   vtkSetMacro(ColorMapDiscretization, std::optional<int>);
 
